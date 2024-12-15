@@ -25,7 +25,7 @@ Mise en œuvre réussie de l'authentification sécurisée avec Keycloak.
 ---
 
 ### **Lien vers le rapport complet :**
-[Rapport complet - OAuth2, OIDC, Keycloak]((https://docs.google.com/document/d/1rPj9X2uqy5_jgF0wLcqG4llOUkLAnG7p3npjglXa-CE/edit?usp=sharing))
+[Rapport complet - OAuth2, OIDC, Keycloak](https://docs.google.com/document/d/1rPj9X2uqy5_jgF0wLcqG4llOUkLAnG7p3npjglXa-CE/edit?usp=sharing)
 
 **Réalisé par :** Roumaysae EL AMRANI  
 **Encadré par :** Mohamed YOUSSFI
